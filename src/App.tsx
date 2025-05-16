@@ -11,7 +11,7 @@ import type { RootState } from "@/app/store";
 // Pages
 import Skip from "./pages/Skip";
 // Settings
-import { toastSettengs } from "@/lib/settengs.ts";
+import { toastSettengs } from "@/lib/settengs";
 
 function App() {
   const isDarkMode = useSelector((state: RootState) => state.theme.isDarkTheme);
