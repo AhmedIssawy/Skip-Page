@@ -3,7 +3,7 @@ A modern, scalable, and performant React application that allows users to select
 
 ## 🚦 Performance Comparison: Main Skip Selection Page vs. Skip Selection Page
 
-| Metric                | Skip Selection Page      | Main Skip Selection Page              |
+| Metric                | My Skip Selection Page  |Main Skip Selection Page|
 |-----------------------|-------------------------|------------------------|
 | Requests              | 50                      | 50                     |
 | Data Transferred      | 3.0 kB / 3,162 kB       | 50 kB / 1,960 kB       | Data fetched diffrence not preformance fault !
