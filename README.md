@@ -8,7 +8,7 @@ A modern, scalable, and performant React application that allows users to select
 | Requests              | 50                      | 50                     |
 | Resources             | 2.7 kB / 3,151 kB       | 258 kB / 6,197 kB      |
 | Finish                | 0.95 s                  | 37.2 s                 |
-| DOMContentLoaded      | 660 ms                  | 413 ms                 |
+| DOMContentLoaded      | 413 ms                  | 660 ms                 |
 | Load                  | 996 ms                  | 2.1 s                  |
 
 **Summary:**
