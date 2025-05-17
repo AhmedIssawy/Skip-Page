@@ -1,7 +1,7 @@
 🛠️ Skip Selection Page
 A modern, scalable, and performant React application that allows users to select the appropriate skip size for their needs.
 
-## 🚦 Performance Comparison: Main Skip Selection Page vs. Skip Selection Page
+## 🚦 Performance Comparison: Main Skip Selection Page vs. My Skip Selection Page
 
 | Metric                | My Skip Selection Page  |Main Skip Selection Page|
 |-----------------------|-------------------------|------------------------|
@@ -22,7 +22,6 @@ A modern, scalable, and performant React application that allows users to select
 ## 📁 Project Structure
 ```bash
 .
-├── public/                       # Static assets
 ├── src/
 │   ├── app/
 │   │   ├── api/                 # RTK Query slices (apiSlice, productApiSlice)
