@@ -6,7 +6,6 @@ A modern, scalable, and performant React application that allows users to select
 | Metric                | My Skip Selection Page  |Main Skip Selection Page|
 |-----------------------|-------------------------|------------------------|
 | Requests              | 50                      | 50                     |
-| Data Transferred      | 3.0 kB / 3,162 kB       | 50 kB / 1,960 kB       | Data fetched diffrence not preformance fault !
 | Resources             | 2.7 kB / 3,151 kB       | 258 kB / 6,197 kB      |
 | Finish                | 0.95 s                  | 37.2 s                 |
 | DOMContentLoaded      | 660 ms                  | 413 ms                 |
